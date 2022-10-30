@@ -1,0 +1,27 @@
+{
+    "name": "Random Password Generator",
+    "short_name": "RandomPassGen",
+    "icons": [
+        {
+            "src": "./resources/pass.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./resources/pass.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/pass.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#FFFFFF",
+    "background_color": "#FFFFFF",
+    "start_url": "/androrandropass/",
+    "display": "standalone",
+    "orientation": "portrait"
+}
